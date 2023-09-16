@@ -1,7 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Coy 
 
-<!--
-**coywebb/coywebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- [Password Strength Checker / Strong Password Generator] 
+
+<h2> Certifications </h2>
+- Microsoft Azure Fundamentals (AZ-900)
+
+
+
+
+
+
+
+
+<h2> [linkedin]: www.linkedin.com/in/coy-webb-b60273253
+
 
 Here are some ideas to get you started:
 
